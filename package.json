@@ -7,11 +7,16 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
+    "ansi-regex": "^5.0.1",
     "axios": "^0.21.2",
+    "browserslist": "^4.16.5",
     "dot-prop": "^6.0.1",
+    "glob-parent": "^5.1.2",
+    "immer": "^9.0.6",
     "js-yaml": "^4.1.0",
     "mem": "^8.1.1",
     "node-forge": "^0.10.0",
+    "nth-check": "^2.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
@@ -19,7 +24,8 @@
     "react-scripts": "^4.0.3",
     "redux": "^4.0.0",
     "redux-form": "^8.3.6",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "set-value": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
